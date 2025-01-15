@@ -21,8 +21,8 @@ The **Simple Calculator** performs basic arithmetic operations. Users can input 
 3.**Display Result:**
   -The calculated result is displayed on the screen.
 4.Output
-  
 ![Screenshot 2025-01-15 193910](https://github.com/user-attachments/assets/83e32019-4872-49f5-aaf7-3b484c576a64)
 ![Screenshot 2025-01-15 202929](https://github.com/user-attachments/assets/d91d9749-10fe-4b98-823e-a26aa3c6f050)
 ![Screenshot 2025-01-15 203229](https://github.com/user-attachments/assets/a9a06542-0fd0-40ff-82d1-ef431259b058)
 ![Screenshot 2025-01-15 203310](https://github.com/user-attachments/assets/b32a9068-2d9b-4764-8365-8e8c19dd45be)
+
