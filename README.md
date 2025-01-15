@@ -20,3 +20,5 @@ The **Simple Calculator** performs basic arithmetic operations. Users can input 
 
 3.**Display Result:**
   -The calculated result is displayed on the screen.
+4.Output
+  ![Screenshot 2025-01-15 193910](https://github.com/user-attachments/assets/9f829455-a9dd-4e13-933b-729d1f56ca7a)
