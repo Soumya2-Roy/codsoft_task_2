@@ -11,6 +11,12 @@ def creation_of_calculator(x,y,sign):
         result=x*y
     elif sign=='/':
         result=x/y
+    elif sign=='**':
+        result=x/y
+    elif sign=='//':
+        result=x//y
+    elif sign=='%':
+        result=x%y
     else:
         print("Invalid sign")
     print("Result is:",result)
