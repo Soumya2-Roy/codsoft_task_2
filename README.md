@@ -10,13 +10,13 @@ The **Simple Calculator** performs basic arithmetic operations. Users can input 
 2.**Perform Calculation:**
   -Based on the user's input, the application performs the chosen arithmetic operation.
   -For example:
-    -If the user inputs 5, 3, and selects +, the result is 8.
-    -If the user inputs 10, 4, and selects -, the result is 6.
-    -If the user inputs 7, 2, and selects *, the result is 14.
-    -If the user inputs 15, 5, and selects /, the result is 3.0.
-    -If the user inputs 5, 5, and selects %, the result is 0.0.
-    -If the user inputs 15, 5, and selects //, the result is 3.0.
-    -If the user inputs 3, 2, and selects **, the result is 9.0.
+    -If the user inputs '5', '3', and selects '+', the result is '8'.
+    -If the user inputs '10', '4', and selects '-', the result is '6'.
+    -If the user inputs '7', '2', and selects '*', the result is '14'.
+    -If the user inputs '15', '5', and selects '/', the result is '3.0'.
+    -If the user inputs '5', '5', and selects '%', the result is '0.0'.
+    -If the user inputs '15','5', and selects //, the result is '3.0'.
+    -If the user inputs '3','2', and selects '**', the result is '9.0'.
 
 3.**Display Result:**
   -The calculated result is displayed on the screen.
