@@ -20,6 +20,8 @@ The **Simple Calculator** performs basic arithmetic operations. Users can input 
 
 3.**Display Result:**
   -The calculated result is displayed on the screen.
+4.**Vedio Representation:**
+  
 4.Output
 ![Screenshot 2025-01-15 193910](https://github.com/user-attachments/assets/83e32019-4872-49f5-aaf7-3b484c576a64)
 ![Screenshot 2025-01-15 202929](https://github.com/user-attachments/assets/d91d9749-10fe-4b98-823e-a26aa3c6f050)
